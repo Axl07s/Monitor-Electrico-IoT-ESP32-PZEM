@@ -67,7 +67,5 @@ Dashboard Local: Accesible mediante la IP local del ESP32 (ej. http://10.121.182
 
 
 
-ThingSpeak: Enlace al Canal Público.
-
-
-Video Demostrativo: Ver en YouTube.
+ThingSpeak: https://thingspeak.mathworks.com/channels/3222083
+Video Demostrativo: https://youtu.be/HvyWxxEdrPc
