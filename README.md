@@ -1,9 +1,9 @@
 Sistema Inteligente de Monitoreo Eléctrico IoT (ESP32 + PZEM-004T)
 
 👥 Integrantes
-Axel Molineros 
-Jeremy Novoa 
-Harold Vinueza 
+Axel Molineros, 
+Jeremy Novoa,
+Harold Vinueza
 
 📝 Descripción del Proyecto
 Este sistema embebido permite la supervisión de redes eléctricas en tiempo real. Utiliza un microcontrolador ESP32 y un sensor industrial PZEM-004T para capturar variables críticas como voltaje, corriente, potencia y factor de potencia. Los datos se visualizan simultáneamente en un Dashboard web local, una App móvil vía Bluetooth y en la nube a través de ThingSpeak.
