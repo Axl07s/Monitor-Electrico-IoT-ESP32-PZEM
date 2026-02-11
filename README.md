@@ -15,7 +15,6 @@ Para garantizar el cumplimiento de la metodología, el proyecto se organiza de l
 
 
 
-
 /Código: Contiene el firmware .ino desarrollado para el ESP32.
 
 
