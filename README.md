@@ -1,9 +1,8 @@
 Sistema Inteligente de Monitoreo Eléctrico IoT (ESP32 + PZEM-004T)
+
 👥 Integrantes
 Axel Molineros 
-
 Jeremy Novoa 
-
 Harold Vinueza 
 
 📝 Descripción del Proyecto
