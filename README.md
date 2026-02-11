@@ -63,7 +63,7 @@ ESPAsyncWebServer y AsyncTCP: Para el Dashboard web local asíncrono.
 
 🌐 Visualización de Datos
 
-Dashboard Local: Accesible mediante la IP local del ESP32 (ej. http://10.121.182.216).
+Dashboard Local: Accesible mediante la IP local del ESP32 http://10.160.250.216
 
 
 
